@@ -13,3 +13,4 @@ Process:
   3. Visualization
      - Using Tableau to make a dashboard
      - The dashboard shows the main KPIs and easy for the owner to interpret
+     - Link to the dashboard: https://public.tableau.com/views/Coffeeordersanalysis/Dashboard1?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link
